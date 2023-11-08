@@ -1,5 +1,4 @@
-:root,
-.zadark--use-hotkeys {
+:root {
   --card-background: #1e1e1e;
   --chat-incoming-message-bubble-background-color: #292929;
   --comment-background: #292929;
@@ -58,17 +57,17 @@
   --NG15: #2c2e2f;
   --NG20: #303233;
   --NG25: #303233;
-  --NG30: #3d3f40;
-  --NG40: #696b6b;
-  --NG50: #9e9f9f;
-  --NG55: #9e9f9f;
-  --NG60: #c1c2c2;
-  --NG70: #c1c2c2;
-  --NG80: #c1c2c2;
-  --NG85: #c1c2c2;
-  --NG90: #e5e5e5;
-  --NG95: #e5e5e5;
-  --NG100: #f6f6f6;
+  --NG30: #1e1e1e;
+  --NG40: #1e1e1e;
+  --NG50: #1e1e1e;
+  --NG55: #1e1e1e;
+  --NG60: #1e1e1e;
+  --NG70: #1e1e1e;
+  --NG80: #1e1e1e;
+  --NG85: #1e1e1e;
+  --NG90: #1e1e1e;
+  --NG95: #1e1e1e;
+  --NG100: #1e1e1e;
 
   // Blue
   --B10: #0f2345;
@@ -547,4 +546,10 @@
 .quote-banner {
   --blue-quote: #404a59;
   --white-quote : #404a59
+}
+.contact-pages.page-container .card-list-title{
+  background: #2c2e2f;
+}
+.contact-pages.page-container{
+  background: #2c2e2f;
 }
